@@ -17,9 +17,9 @@ Video File: ../[U-Q] Circuit Angel OVA [2DF3B2FA].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 162
-Active Line: 173
-Video Position: 19418
+Scroll Position: 210
+Active Line: 224
+Video Position: 26782
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -160,7 +160,7 @@ Dialogue: 0,0:10:07.18,0:10:10.20,Default,,0,0,0,,Cái con ngốc này, nó bự
 Dialogue: 0,0:10:10.26,0:10:13.30,Default,,0,0,0,,Nè, thế cậu nghĩ sao về Keiichi-kun hửm?{Hey, what do you think about Keiichi?}
 Dialogue: 0,0:10:13.31,0:10:16.70,Default,,0,0,0,,Keiichi-kun? Cậu ta chỉ là\N bạn thơ ấu của tớ thôi.{He's just an old friend.}
 Dialogue: 0,0:10:17.15,0:10:18.42,Default,,0,0,0,,Hể?
-Dialogue: 0,0:10:18.42,0:10:22.00,Default,,0,0,0,,{He's not the kind of guy I'd want as a boyfriend.}Thế cậu ta không phải \Nkiểu bạn trai cậu thích sao? 
+Dialogue: 0,0:10:18.42,0:10:22.00,Default,,0,0,0,,{He's not the kind of guy I'd want as a boyfriend.}Thế cậu ta không phải \Nkiểu bạn trai cậu thích sao?
 Dialogue: 0,0:10:22.00,0:10:24.25,Default,,0,0,0,,Thế gu bạn trai của cậu là gì nào?{What kind of guys do you like then?}
 Dialogue: 0,0:10:24.75,0:10:27.50,Default,,0,0,0,,{Me? I like...}Tớ sao? Gu của tớ thì...
 Dialogue: 0,0:10:28.70,0:10:29.72,Default,,0,0,0,,Không đời nào!{No!}
@@ -212,49 +212,53 @@ Dialogue: 0,0:13:29.92,0:13:33.06,Default,,0,0,0,,{I'll hold onto this until we 
 Dialogue: 0,0:13:59.00,0:14:01.79,Default,,0,0,0,,"Nabeshima"
 Dialogue: 0,0:14:18.36,0:14:19.28,Default,,0,0,0,,Sho!
 Dialogue: 0,0:14:20.19,0:14:21.12,Default,,0,0,0,,Lại đây ta bảo chút.{Come here for a bit.}
-Dialogue: 0,0:14:21.80,0:14:24.70,Default,,0,0,0,,If this is about helping you make more money, I'll pass.
-Dialogue: 0,0:14:24.80,0:14:28.80,Default,,0,0,0,,Big words from a guy who likes to play around with said money.
-Dialogue: 0,0:14:29.80,0:14:32.70,Default,,0,0,0,,That's the only thing that connects us as father and son, right?
-Dialogue: 0,0:14:32.80,0:14:34.50,Default,,0,0,0,,What a witty retort.
-Dialogue: 0,0:14:34.50,0:14:37.50,Default,,0,0,0,,More importantly,\Nyou're entering the next race, right?
-Dialogue: 0,0:14:38.00,0:14:41.20,Default,,0,0,0,,Even if I refused,\Nwouldn't you just force me to enter?
-Dialogue: 0,0:14:41.70,0:14:43.30,Default,,0,0,0,,Obviously.
-Dialogue: 0,0:14:43.30,0:14:47.50,Default,,0,0,0,,You're driving our latest model.\NIt'd be a shame if you didn't win.
-Dialogue: 0,0:14:48.20,0:14:52.50,Default,,0,0,0,,A victory for me will raise\Nour popularity in an instant.
-Dialogue: 0,0:14:52.70,0:14:56.00,Default,,0,0,0,,No matter how good it is, the machine won't win the race.
-Dialogue: 0,0:14:56.00,0:14:57.50,Default,,0,0,0,,I will.
+Dialogue: 0,0:14:21.80,0:14:24.12,Default,,0,0,0,,{If this is about helping you make more money, I'll pass.}Nếu để phụ ông kiếm nhiều tiền hơn\N thì nói trước là tôi từ chối nhé.
+Dialogue: 0,0:14:24.62,0:14:28.03,Default,,0,0,0,,{Big words from a guy who likes to play around with said money.}Với một đứa dùng số tiền đó để ăn chơi \Nthì con ăn nói đao to búa lớn phết nhỉ?
+Dialogue: 0,0:14:29.72,0:14:32.70,Default,,0,0,0,,Chẳng phải tiền là mối liên kết duy nhất \Ngiữa hai ta, trên danh nghĩa cha con sao?{That's the only thing that connects us as father and son, right?}
+Dialogue: 0,0:14:32.76,0:14:33.95,Default,,0,0,0,,{What a witty retort.}Con trơ tráo thật đấy.
+Dialogue: 0,0:14:34.50,0:14:37.50,Default,,0,0,0,,{More importantly,\Nyou're entering the next race, right?}Quan trọng hơn là con sẽ tham gia \Ncuộc đua tiếp theo, đúng không?
+Dialogue: 0,0:14:38.10,0:14:40.41,Default,,0,0,0,,Dù tôi không muốn thì chẳng phải\N ông cũng sẽ ép tôi tham gia sao?{Even if I refused,\Nwouldn't you just force me to enter?}
+Dialogue: 0,0:14:41.70,0:14:43.01,Default,,0,0,0,,Tất nhiên.{Obviously.}
+Dialogue: 0,0:14:43.14,0:14:47.50,Default,,0,0,0,,Con đang lái mẫu mới nhất mà.\NNên nếu không thắng được thì phiền phức lắm.{You're driving our latest model.\NIt'd be a shame if you didn't win.}
+Dialogue: 0,0:14:48.20,0:14:52.36,Default,,0,0,0,,{A victory for me will raise\Nour popularity in an instant.}Với chiến thắng này, thì danh tiếng của \Ncỗ máy chúng ta sẽ tăng lên ngay lập tức.
+Dialogue: 0,0:14:53.10,0:14:56.00,Default,,0,0,0,,{No matter how good it is, the machine won't win the race.}Tôi nói trước, máy móc \Nsẽ không giúp chiến thắng cuộc đua.
+Dialogue: 0,0:14:56.52,0:14:57.44,Default,,0,0,0,,Chỉ có tôi thì mới có thể thắng.{I will.}
 Dialogue: 0,0:15:49.60,0:15:51.50,Default,,0,0,0,,1969.
-Dialogue: 0,0:15:53.00,0:15:55.50,Default,,0,0,0,,17 years old, huh.
-Dialogue: 0,0:15:56.00,0:15:58.50,Default,,0,0,0,,Mariko Okazaki.
-Dialogue: 0,0:16:14.50,0:16:16.70,Default,,0,0,0,,Your dad's pissed, right?
-Dialogue: 0,0:16:17.00,0:16:22.50,Default,,0,0,0,,Well. he took away the key as usual,\Nbut he was grateful to you!
-Dialogue: 0,0:16:23.00,0:16:26.50,Default,,0,0,0,,Looks like I've gained some respect from him somehow.
-Dialogue: 0,0:16:26.70,0:16:32.50,Default,,0,0,0,,He actually was wondering if he\Nshould ask you to become his son-in-law.
-Dialogue: 0,0:16:35.30,0:16:36.50,Default,,0,0,0,,I'll go change the water!
-Dialogue: 0,0:16:38.00,0:16:40.00,Default,,0,0,0,,Oh, sorry -
-Dialogue: 0,0:16:40.00,0:16:42.00,Default,,0,0,0,,It's you!
-Dialogue: 0,0:16:45.00,0:16:47.50,Default,,0,0,0,,What are you doing here?!
-Dialogue: 0,0:16:50.50,0:16:51.50,Default,,0,0,0,,A cheque?
-Dialogue: 0,0:16:53.00,0:16:54.50,Default,,0,0,0,,Three million?!
-Dialogue: 0,0:16:54.60,0:16:56.50,Default,,0,0,0,,It's my get-well present.
-Dialogue: 0,0:16:56.60,0:16:58.50,Default,,0,0,0,,Chump change for my father.
-Dialogue: 0,0:16:58.60,0:16:59.50,Default,,0,0,0,,Take it.
-Dialogue: 0,0:17:03.20,0:17:05.10,Default,,0,0,0,,Stop joking around!
-Dialogue: 0,0:17:05.20,0:17:08.00,Default,,0,0,0,,You can't just settle this with money!
-Dialogue: 0,0:17:08.10,0:17:12.00,Default,,0,0,0,,Instead of money, just give back Mariko's amulet.
-Dialogue: 0,0:17:12.20,0:17:14.50,Default,,0,0,0,,I refuse.
-Dialogue: 0,0:17:15.00,0:17:16.50,Default,,0,0,0,,You...!
-Dialogue: 0,0:17:25.80,0:17:28.50,Default,,0,0,0,,Enough already.
-Dialogue: 0,0:17:29.80,0:17:34.50,Default,,0,0,0,,Let's not forget basic manners here.
-Dialogue: 0,0:17:35.10,0:17:36.30,Default,,0,0,0,,You...
-Dialogue: 0,0:17:36.30,0:17:40.50,Default,,0,0,0,,And secondly, this amount of money...
+Dialogue: 0,0:15:52.80,0:15:54.16,Default,,0,0,0,,{17 years old, huh.}17 tuổi à.
+Dialogue: 0,0:15:55.66,0:15:57.52,Default,,0,0,0,,Okazaki Mariko.
+Dialogue: 0,0:16:14.25,0:16:16.41,Default,,0,0,0,,{Your dad's pissed, right?}Ba cậu chắc giận lắm nhỉ?
+Dialogue: 0,0:16:16.69,0:16:20.37,Default,,0,0,0,,Ừm thì ổng đã tịch thu \Nchìa khoá như thường lệ.{Well. he took away the key as usual,\Nbut he was grateful to you!}
+Dialogue: 0,0:16:20.48,0:16:22.41,Default,,0,0,0,,Nhưng mà ba tớ biết ơn Keiichi-kun lắm đấy.{Well. he took away the key as usual,\Nbut he was grateful to you!}
+Dialogue: 0,0:16:22.43,0:16:26.50,Default,,0,0,0,,{Looks like I've gained some respect from him somehow.}E-He... Có vẻ như tớ đã dành được\N sự tôn trọng từ ba cậu bằng cách nào đó nhỉ.
+Dialogue: 0,0:16:26.70,0:16:32.50,Default,,0,0,0,,{He actually was wondering if he\Nshould ask you to become his son-in-law.}Ông ấy cũng đang tự hỏi rằng, \Nliệu ổng có nên hỏi cậu làm rể hay không đấy.
+Dialogue: 0,0:16:31.00,0:16:31.69,Default,,0,0,0,,{\an8}Ớ?!
+Dialogue: 0,0:16:35.30,0:16:36.99,Default,,0,0,0,,Con đi thay nước đây!{I'll go change the water!}
+Dialogue: 0,0:16:37.55,0:16:38.91,Default,,0,0,0,,Ơ, xin lỗi-{Oh, sorry -}
+Dialogue: 0,0:16:39.24,0:16:40.83,Default,,0,0,0,,Hớ! Là anh!{It's you!}
+Dialogue: 0,0:16:45.00,0:16:46.29,Default,,0,0,0,,Mày tới đây làm gì hả?!{What are you doing here?!}
+Dialogue: 0,0:16:50.50,0:16:51.50,Default,,0,0,0,,{A cheque?}Tờ séc sao?
+Dialogue: 0,0:16:52.67,0:16:53.65,Default,,0,0,0,,3 triệu yên sao?!{Three million?!}
+Dialogue: 0,0:16:53.65,0:16:54.21,Default,,0,0,0,,Ể?
+Dialogue: 0,0:16:54.56,0:16:55.76,Default,,0,0,0,,{It's my get-well present.}Tiền chúc sức khoẻ đấy.
+Dialogue: 0,0:16:56.20,0:16:58.22,Default,,0,0,0,,{Chump change for my father.}Đống tiền thừa của cha tôi ấy mà.
+Dialogue: 0,0:16:58.60,0:16:59.39,Default,,0,0,0,,Cầm lấy đi.{Take it.}
+Dialogue: 0,0:17:03.20,0:17:04.98,Default,,0,0,0,,{Stop joking around!}Đừng có giỡn mặt!
+Dialogue: 0,0:17:04.99,0:17:07.57,Default,,0,0,0,,Anh nghĩ là chỉ cần tiền là có thể \Ngiải quyết được chuyện này sao?{You can't just settle this with money!}
+Dialogue: 0,0:17:08.10,0:17:11.57,Default,,0,0,0,,{Instead of money, just give back Mariko's amulet.}Thay vì tiền, thì sao mày không\N trả lại bùa hộ mệnh của cậu ấy đi.
+Dialogue: 0,0:17:12.20,0:17:13.18,Default,,0,0,0,,Tôi không muốn.{I refuse.}
+Dialogue: 0,0:17:15.13,0:17:16.50,Default,,0,0,0,,Đồ khốn!{You...!}
+Dialogue: 0,0:17:25.98,0:17:27.82,Default,,0,0,0,,Đủ rồi đấy.{Enough already.}
+Dialogue: 0,0:17:29.66,0:17:33.25,Default,,0,0,0,,{Let's not forget basic manners here.}Chí ít thì cũng phải giữ lễ nghi tối thiểu\N của một con người ở đây.
+Dialogue: 0,0:17:35.10,0:17:35.98,Default,,0,0,0,,Ông là...{You...}
+Dialogue: 0,0:17:36.18,0:17:40.50,Default,,0,0,0,,{And secondly, this amount of money...}Và còn về số tiền chúc sức khoẻ này thì...
 Dialogue: 0,0:17:41.10,0:17:43.50,Default,,0,0,0,,Nabeshima Mitsugu...
-Dialogue: 0,0:18:20.50,0:18:24.50,Default,,0,0,0,,Mariko... I see.
-Dialogue: 0,0:18:24.50,0:18:26.50,Default,,0,0,0,,You knew Nagase.
-Dialogue: 0,0:18:27.30,0:18:28.50,Default,,0,0,0,,It's no wonder then.
-Dialogue: 0,0:18:31.60,0:18:34.00,Default,,0,0,0,,Master!
-Dialogue: 0,0:18:34.10,0:18:35.60,Default,,0,0,0,,How unusual!
-Dialogue: 0,0:18:36.00,0:18:38.20,Default,,0,0,0,,Yeah. What's this?
+Dialogue: 0,0:18:20.77,0:18:24.17,Default,,0,0,0,,Mariko... Ra là thế...{I see...}
+Dialogue: 0,0:18:24.50,0:18:26.50,Default,,0,0,0,,Cô quen biết cả Nagase.{You knew Nagase.}
+Dialogue: 0,0:18:27.30,0:18:28.50,Default,,0,0,0,,{It's no wonder then.}Nên cũng là lẽ đương nhiên thôi.
+Dialogue: 0,0:18:31.60,0:18:32.70,Default,,0,0,0,,Cậu chủ!{Master!}
+Dialogue: 0,0:18:34.10,0:18:35.60,Default,,0,0,0,,{How unusual!}Đúng là hiếm khi gặp được cậu thật đấy!
+Dialogue: 0,0:18:35.65,0:18:37.01,Default,,0,0,0,,Ờ. Nó là gì vậy?{Yeah. What's this?}
+Dialogue: 0,0:18:37.01,0:18:37.72,Default,,0,0,0,,Ể?
 Dialogue: 0,0:18:38.30,0:18:41.90,Default,,0,0,0,,Ah, that's a model\Nthat was discontinued 7 years ago.
 Dialogue: 0,0:18:41.90,0:18:44.20,Default,,0,0,0,,The one from that incident, remember?
 Dialogue: 0,0:18:44.80,0:18:48.30,Default,,0,0,0,,The controversy is starting to wear off, though.
