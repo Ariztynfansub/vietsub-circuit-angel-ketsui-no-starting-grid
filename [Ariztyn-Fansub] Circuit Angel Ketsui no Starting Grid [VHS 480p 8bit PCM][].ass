@@ -16,10 +16,10 @@ Audio File: ../[U-Q] Circuit Angel OVA [2DF3B2FA].mkv
 Video File: ../[U-Q] Circuit Angel OVA [2DF3B2FA].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.875000
-Scroll Position: 72
-Active Line: 83
-Video Position: 9159
+Video Zoom Percent: 0.750000
+Scroll Position: 162
+Active Line: 173
+Video Position: 19418
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -117,86 +117,101 @@ Dialogue: 0,0:06:08.99,0:06:14.01,Default,,0,0,0,,{Idiot! If something happens t
 Dialogue: 0,0:06:14.60,0:06:17.50,Default,,0,0,0,,{Why do you think you're responsible for me?}Tại sao việc chịu trách nhiệm về tớ \Nthì lại liên quan đến Keiichi-kun?
 Dialogue: 0,0:06:17.71,0:06:19.26,Default,,0,0,0,,{Huh? Isn't it obvious?}Tại sao hả?
 Dialogue: 0,0:06:20.34,0:06:21.66,Default,,0,0,0,,Còn phải hỏi nữa sao?!
-Dialogue: 0,0:06:22.00,0:06:24.00,Default,,0,0,0,,What are you doing?
-Dialogue: 0,0:06:24.00,0:06:26.50,Default,,0,0,0,,You're not a very popular guy, are you?
-Dialogue: 0,0:06:27.00,0:06:30.50,Default,,0,0,0,,You're more annoying than helpful!
-Dialogue: 0,0:06:51.00,0:06:53.90,Default,,0,0,0,,Mariko! That's enough already! Listen to me!
-Dialogue: 0,0:06:54.20,0:06:54.90,Default,,0,0,0,,Can't hear you!
-Dialogue: 0,0:07:05.00,0:07:07.90,Default,,0,0,0,,Huh, that guy isn't half bad.
-Dialogue: 0,0:07:08.20,0:07:10.90,Default,,0,0,0,,That's not a guy.
-Dialogue: 0,0:07:24.20,0:07:25.90,Default,,0,0,0,,Welcome.
-Dialogue: 0,0:07:26.20,0:07:27.90,Default,,0,0,0,,Have you seen Mariko?
-Dialogue: 0,0:07:27.90,0:07:29.00,Default,,0,0,0,,No.
-Dialogue: 0,0:07:29.00,0:07:31.50,Default,,0,0,0,,Thought so. That punk!
-Dialogue: 0,0:07:32.00,0:07:33.00,Default,,0,0,0,,Mister!
-Dialogue: 0,0:07:47.30,0:07:48.50,Default,,0,0,0,,Well, you see...
-Dialogue: 0,0:07:48.50,0:07:53.50,Default,,0,0,0,,Even I know bikes aren't that dangerous\Nas long as you follow the regulations.
-Dialogue: 0,0:07:53.60,0:07:54.50,Default,,0,0,0,,But...
-Dialogue: 0,0:07:56.20,0:07:58.40,Default,,0,0,0,,I don't like the way she acts!
-Dialogue: 0,0:07:58.80,0:08:00.50,Default,,0,0,0,,Cut her some slack.
-Dialogue: 0,0:08:01.10,0:08:04.20,Default,,0,0,0,,People tend to act reckless when they're young.
-Dialogue: 0,0:08:04.30,0:08:07.40,Default,,0,0,0,,That includes doing things\Nbehind their parent's backs.
-Dialogue: 0,0:08:08.30,0:08:10.60,Default,,0,0,0,,Don't you remember being like that once too?
-Dialogue: 0,0:08:11.30,0:08:15.40,Default,,0,0,0,,Even I've done things I regret now\Nwithout even realizing it...
-Dialogue: 0,0:08:19.50,0:08:22.40,Default,,0,0,0,,Being worried is part of a parent's job, huh...
-Dialogue: 0,0:08:32.80,0:08:34.70,Default,,0,0,0,,Isn't anyone following me?
-Dialogue: 0,0:08:37.80,0:08:39.50,Default,,0,0,0,,Is that Keiichi?
-Dialogue: 0,0:08:39.50,0:08:41.00,Default,,0,0,0,,Doesn't look like him.
-Dialogue: 0,0:08:54.50,0:08:56.00,Default,,0,0,0,,I won't let you get past!
-Dialogue: 0,0:09:07.20,0:09:08.00,Default,,0,0,0,,He's good!
-Dialogue: 0,0:09:08.20,0:09:10.30,Default,,0,0,0,,Don't stick too close or you'll regret it!
-Dialogue: 0,0:09:31.00,0:09:32.50,Default,,0,0,0,,Unbelievable...
-Dialogue: 0,0:09:56.80,0:09:58.10,Default,,0,0,0,,Awesome!
-Dialogue: 0,0:09:58.20,0:10:00.59,Default,,0,0,0,,Hey Hiroko, have you grown bigger again?
-Dialogue: 0,0:10:00.60,0:10:04.09,Default,,0,0,0,,That's right!\NLooks like I'll have to get a new bra soon.
-Dialogue: 0,0:10:04.10,0:10:07.10,Default,,0,0,0,,What do you eat to get that big?
-Dialogue: 0,0:10:07.10,0:10:10.20,Default,,0,0,0,,It's not about what you eat, dummy!
-Dialogue: 0,0:10:10.30,0:10:13.30,Default,,0,0,0,,Hey, what do you think about Keiichi?
-Dialogue: 0,0:10:13.30,0:10:16.70,Default,,0,0,0,,Keiichi? He's just an old friend.
-Dialogue: 0,0:10:18.40,0:10:22.00,Default,,0,0,0,,He's not the kind of guy I'd want as a boyfriend.
-Dialogue: 0,0:10:22.00,0:10:24.70,Default,,0,0,0,,What kind of guys do you like then?
-Dialogue: 0,0:10:25.00,0:10:27.50,Default,,0,0,0,,Me? I like...
-Dialogue: 0,0:10:28.70,0:10:29.50,Default,,0,0,0,,No!
-Dialogue: 0,0:10:32.50,0:10:35.50,Default,,0,0,0,,Hey Kei, we shouldn't be doing this.
-Dialogue: 0,0:10:35.60,0:10:39.50,Default,,0,0,0,,Idiot! A chance like this doesn't come often!
-Dialogue: 0,0:10:39.70,0:10:42.60,Default,,0,0,0,,Hiroko's going to break up with me.
-Dialogue: 0,0:10:43.00,0:10:47.50,Default,,0,0,0,,A temporary breakup or nude girls,\Nwhich do you care about more?
-Dialogue: 0,0:10:48.00,0:10:49.70,Default,,0,0,0,,N-nude girls!
-Dialogue: 0,0:10:51.00,0:10:52.50,Default,,0,0,0,,Thought you'd say so.
-Dialogue: 0,0:10:58.00,0:11:00.00,Default,,0,0,0,,Who are you people?
-Dialogue: 0,0:11:00.50,0:11:03.50,Default,,0,0,0,,Who rode the bike with this thing on it?
-Dialogue: 0,0:11:03.60,0:11:04.90,Default,,0,0,0,,That's mine!
-Dialogue: 0,0:11:05.00,0:11:09.00,Default,,0,0,0,,I see. Only Sho can notice these kind of things.
-Dialogue: 0,0:11:09.30,0:11:12.00,Default,,0,0,0,,Hey hey! You guys!
-Dialogue: 0,0:11:12.00,0:11:14.00,Default,,0,0,0,,Blatantly peeking on girls is dirty!
-Dialogue: 0,0:11:14.10,0:11:16.10,Default,,0,0,0,,Isn't that better than doing it sneakily?
-Dialogue: 0,0:11:16.20,0:11:18.10,Default,,0,0,0,,Who's sneaking?
-Dialogue: 0,0:11:18.20,0:11:19.50,Default,,0,0,0,,That's right! That's right!
-Dialogue: 0,0:11:19.50,0:11:22.50,Default,,0,0,0,,People who peek on others are the worst!
-Dialogue: 0,0:11:22.50,0:11:25.10,Default,,0,0,0,,Did something happen at the spring?
-Dialogue: 0,0:11:26.50,0:11:28.00,Default,,0,0,0,,Give my amulet back!
-Dialogue: 0,0:11:29.00,0:11:33.00,Default,,0,0,0,,Just wait! I'll definitely get it back for you!
-Dialogue: 0,0:11:33.40,0:11:37.00,Default,,0,0,0,,Kei, wait! Me too!
-Dialogue: 0,0:11:37.60,0:11:40.30,Default,,0,0,0,,Good timing from those two...
-Dialogue: 0,0:11:43.00,0:11:45.00,Default,,0,0,0,,They were watching!!
-Dialogue: 0,0:12:07.00,0:12:09.00,Default,,0,0,0,,It's too early for a break!
-Dialogue: 0,0:12:11.50,0:12:13.40,Default,,0,0,0,,Step it up, kid!
-Dialogue: 0,0:12:13.50,0:12:14.50,Default,,0,0,0,,Damn!
-Dialogue: 0,0:12:14.60,0:12:18.00,Default,,0,0,0,,Kei, these guys are pretty tough!
-Dialogue: 0,0:12:19.00,0:12:21.80,Default,,0,0,0,,Yeah, but I won't lose!
-Dialogue: 0,0:12:30.50,0:12:32.00,Default,,0,0,0,,No way.
-Dialogue: 0,0:13:02.00,0:13:03.80,Default,,0,0,0,,Keiichi, are you alright?
-Dialogue: 0,0:13:04.00,0:13:06.00,Default,,0,0,0,,Yeah, I think so.
-Dialogue: 0,0:13:06.50,0:13:09.00,Default,,0,0,0,,Hmph, you've got some skills.
-Dialogue: 0,0:13:10.80,0:13:12.30,Default,,0,0,0,,What are you up to?
-Dialogue: 0,0:13:12.30,0:13:16.00,Default,,0,0,0,,Nothing much. Just wanted to see you.
-Dialogue: 0,0:13:16.00,0:13:19.00,Default,,0,0,0,,Well, are you happy now? Give it back.
-Dialogue: 0,0:13:19.20,0:13:21.00,Default,,0,0,0,,Here ya go.
-Dialogue: 0,0:13:22.00,0:13:24.50,Default,,0,0,0,,Looks like a marriage amulet.
-Dialogue: 0,0:13:30.00,0:13:34.40,Default,,0,0,0,,I'll hold onto this until we meet again.
-Dialogue: 0,0:13:59.00,0:14:01.50,Default,,0,0,0,,{\i1}Nabeshima{\i}
-Dialogue: 0,0:14:18.50,0:14:19.50,Default,,0,0,0,,Sho!
-Dialogue: 0,0:14:19.80,0:14:21.50,Default,,0,0,0,,Come here for a bit.
+Dialogue: 0,0:06:22.00,0:06:23.89,Default,,0,0,0,,{What are you doing?}Mấy cậu làm gì đấy?
+Dialogue: 0,0:06:23.90,0:06:26.50,Default,,0,0,0,,{You're not a very popular guy, are you?}Cậu cái đứa không mấy\N nổi bật đúng không?
+Dialogue: 0,0:06:26.57,0:06:27.14,Default,,0,0,0,,Hở?
+Dialogue: 0,0:06:27.38,0:06:30.65,Default,,0,0,0,,{You're more annoying than helpful!}Giúp được thì ít mà ồn thì nhiều!
+Dialogue: 0,0:06:51.00,0:06:54.13,Default,,0,0,0,,Mariko! {That's enough already! Listen to me!}Đủ rồi đấy! Nghe lời tớ đi!
+Dialogue: 0,0:06:54.14,0:06:55.58,Default,,0,0,0,,Tôi không nghe thấy gì hết!{Can't hear you!}
+Dialogue: 0,0:07:04.78,0:07:07.90,Default,,0,0,0,,Thằng đó cũng khá phết đấy nhỉ?{Huh, that guy isn't half bad.}
+Dialogue: 0,0:07:08.06,0:07:09.18,Default,,0,0,0,,Không phải "thằng" đâu.{That's not a guy.}
+Dialogue: 0,0:07:09.23,0:07:10.06,Default,,0,0,0,,Hể?
+Dialogue: 0,0:07:11.95,0:07:12.60,Default,,0,0,0,,Hơ?
+Dialogue: 0,0:07:24.20,0:07:25.90,Default,,0,0,0,,Chào mừng.{Welcome.}
+Dialogue: 0,0:07:26.20,0:07:27.55,Default,,0,0,0,,{Have you seen Mariko?}Cậu có thấy Mariko đâu không?
+Dialogue: 0,0:07:27.63,0:07:28.36,Default,,0,0,0,,Không.{No.}
+Dialogue: 0,0:07:28.60,0:07:31.15,Default,,0,0,0,,{Thought so. That punk!}Quả nhiên... Cái con nhỏ trời đánh đó!
+Dialogue: 0,0:07:31.72,0:07:32.57,Default,,0,0,0,,Ông chú à!{Mister!}
+Dialogue: 0,0:07:47.30,0:07:48.50,Default,,0,0,0,,{Well, you see...}Ừm thì...
+Dialogue: 0,0:07:48.78,0:07:53.63,Default,,0,0,0,,{Even I know bikes aren't that dangerous\Nas long as you follow the regulations.}Dù tôi biết là lái mô tô thì không có gì\N nguy hiểm miễn là lái đúng luật thôi.
+Dialogue: 0,0:07:53.69,0:07:54.94,Default,,0,0,0,,Nhưng mà...{But...}
+Dialogue: 0,0:07:56.20,0:07:58.14,Default,,0,0,0,,Cách hành xử của nó\N thì không thể chấp nhận được!{I don't like the way she acts!}
+Dialogue: 0,0:07:58.80,0:08:00.50,Default,,0,0,0,,Thôi để con bé tự do chút đi.{Cut her some slack.}
+Dialogue: 0,0:08:01.04,0:08:03.82,Default,,0,0,0,,{People tend to act reckless when they're young.}Người trẻ thì thường liều lỉnh mà.
+Dialogue: 0,0:08:04.57,0:08:06.83,Default,,0,0,0,,{That includes doing things\Nbehind their parent's backs.}Ví dụ như làm những chuyện lén lút sau lưng ba mẹ vậy.
+Dialogue: 0,0:08:08.50,0:08:10.60,Default,,0,0,0,,Nhớ lại đi, không phải \Nông cũng từng như vậy đó sao?{Don't you remember being like that once too?}
+Dialogue: 0,0:08:11.39,0:08:15.56,Default,,0,0,0,,{Even I've done things I regret now\Nwithout even realizing it...}Tôi cũng từng làm những việc liều lỉnh...\N mà đến khi nhận ra thì mới thấy hối tiếc.
+Dialogue: 0,0:08:16.18,0:08:17.04,Default,,0,0,0,,Hửm?
+Dialogue: 0,0:08:18.03,0:08:19.31,Default,,0,0,0,,Hài...
+Dialogue: 0,0:08:19.50,0:08:22.40,Default,,0,0,0,,{Being worried is part of a parent's job, huh...}Thế lo lắng là việc của cha mẹ à?
+Dialogue: 0,0:08:32.62,0:08:34.78,Default,,0,0,0,,{Isn't anyone following me?}Hình như chẳng có ai \Ntheo kịp được mình nhỉ?
+Dialogue: 0,0:08:37.77,0:08:38.99,Default,,0,0,0,,{Is that }Keiichi-kun sao?
+Dialogue: 0,0:08:39.45,0:08:41.00,Default,,0,0,0,,Trông chẳng giống lắm.{Doesn't look like him.}
+Dialogue: 0,0:08:54.50,0:08:55.89,Default,,0,0,0,,{I won't let you get past!}Tưởng vượt mặt tôi là được chắc?
+Dialogue: 0,0:09:07.20,0:09:08.22,Default,,0,0,0,,Tuyệt thật!{He's good!}
+Dialogue: 0,0:09:08.35,0:09:10.69,Default,,0,0,0,,{Don't stick too close or you'll regret it!}Đừng có lại gần quá không cô sẽ hối tiếc đấy!
+Dialogue: 0,0:09:30.92,0:09:32.25,Default,,0,0,0,,Không thể tin nổi...{Unbelievable...}
+Dialogue: 0,0:09:55.60,0:09:56.68,Default,,0,0,0,,Ưm~
+Dialogue: 0,0:09:56.73,0:09:58.10,Default,,0,0,0,,{Awesome!}Đã quá!
+Dialogue: 0,0:09:58.12,0:10:00.67,Default,,0,0,0,,Nè Hiroko, bộ của cậu\N lại bự hơn nữa rồi sao?{Hey Hiroko, have you grown bigger again?}
+Dialogue: 0,0:10:00.68,0:10:04.33,Default,,0,0,0,,{That's right!\NLooks like I'll have to get a new bra soon.}Chuẩn! Có vẻ như tớ phải mua áo ngực mới thôi.
+Dialogue: 0,0:10:04.46,0:10:07.10,Default,,0,0,0,,{What do you eat to get that big?}Cậu ăn gì để nó bự được thế?
+Dialogue: 0,0:10:07.18,0:10:10.20,Default,,0,0,0,,Cái con ngốc này, nó bự \Nkhông chỉ do ăn uống thôi đâu!{It's not about what you eat, dummy!}
+Dialogue: 0,0:10:10.26,0:10:13.30,Default,,0,0,0,,Nè, thế cậu nghĩ sao về Keiichi-kun hửm?{Hey, what do you think about Keiichi?}
+Dialogue: 0,0:10:13.31,0:10:16.70,Default,,0,0,0,,Keiichi-kun? Cậu ta chỉ là\N bạn thơ ấu của tớ thôi.{He's just an old friend.}
+Dialogue: 0,0:10:17.15,0:10:18.42,Default,,0,0,0,,Hể?
+Dialogue: 0,0:10:18.42,0:10:22.00,Default,,0,0,0,,{He's not the kind of guy I'd want as a boyfriend.}Thế cậu ta không phải \Nkiểu bạn trai cậu thích sao? 
+Dialogue: 0,0:10:22.00,0:10:24.25,Default,,0,0,0,,Thế gu bạn trai của cậu là gì nào?{What kind of guys do you like then?}
+Dialogue: 0,0:10:24.75,0:10:27.50,Default,,0,0,0,,{Me? I like...}Tớ sao? Gu của tớ thì...
+Dialogue: 0,0:10:28.70,0:10:29.72,Default,,0,0,0,,Không đời nào!{No!}
+Dialogue: 0,0:10:29.73,0:10:30.29,Default,,0,0,0,,Hửm?
+Dialogue: 0,0:10:32.43,0:10:35.60,Default,,0,0,0,,{Hey Kei, we shouldn't be doing this.}Kei-chan này, quả nhiên là chúng ta \Nkhông nên làm chuyện này đâu.
+Dialogue: 0,0:10:35.61,0:10:39.37,Default,,0,0,0,,Cái thằng ngu này!\N Cơ hội như vầy không có nhiều đâu!{Idiot! A chance like this doesn't come often!}
+Dialogue: 0,0:10:39.39,0:10:42.13,Default,,0,0,0,,{Hiroko's going to break up with me.}Hiroko sẽ đá tao mất.
+Dialogue: 0,0:10:43.00,0:10:47.50,Default,,0,0,0,,{A temporary breakup or nude girls,\Nwhich do you care about more?}Giữa Chia tay tạm thời và \Ngái khoả thân, thì cái nào ngon hơn hả?
+Dialogue: 0,0:10:47.56,0:10:49.70,Default,,0,0,0,,G-Gái khoả thân!{N-nude girls!}
+Dialogue: 0,0:10:50.99,0:10:52.50,Default,,0,0,0,,{Thought you'd say so.}Chứ còn gì nữa... đúng không?
+Dialogue: 0,0:10:58.00,0:11:00.00,Default,,0,0,0,,{Who are you people?}Mấy người là ai?
+Dialogue: 0,0:11:00.50,0:11:02.94,Default,,0,0,0,,{Who rode the bike with this thing on it?}Ai là đứa lái chiếc mô tô\N có treo thứ này hả?
+Dialogue: 0,0:11:02.94,0:11:03.60,Default,,0,0,0,,Ơ, hơ!
+Dialogue: 0,0:11:03.60,0:11:04.90,Default,,0,0,0,,Nó là của tôi!{That's mine!}
+Dialogue: 0,0:11:05.14,0:11:09.00,Default,,0,0,0,,{I see. Only Sho can notice these kind of things.}Ra là thế. Đúng là chỉ có Sho \Nmới để ý mấy thứ như này nhỉ?
+Dialogue: 0,0:11:09.30,0:11:10.38,Default,,0,0,0,,Này, này!{Hey hey! You guys!}
+Dialogue: 0,0:11:10.38,0:11:10.83,Default,,0,0,0,,Hở?
+Dialogue: 0,0:11:10.83,0:11:11.81,Default,,0,0,0,,Mấy thằng kia!{Hey hey! You guys!}
+Dialogue: 0,0:11:11.85,0:11:14.00,Default,,0,0,0,,{Blatantly peeking on girls is dirty!}Nhìn lén công khai\N là không thể thứ được!
+Dialogue: 0,0:11:14.10,0:11:15.92,Default,,0,0,0,,{Isn't that better than doing it sneakily?}Chẳng phải thế này thì \Ntốt hơn là lén lút như mày sao?
+Dialogue: 0,0:11:15.93,0:11:17.80,Default,,0,0,0,,{Who's sneaking?}A-Ai mà lén lút ở đây hả?
+Dialogue: 0,0:11:17.84,0:11:19.31,Default,,0,0,0,,Đúng đó!{That's right! That's right!} Đúng đó!
+Dialogue: 0,0:11:19.37,0:11:22.50,Default,,0,0,0,,{People who peek on others are the worst!}Đàn ông con trai mà lại đi \Nnhìn lén là loại người tệ hại nhất đấy!
+Dialogue: 0,0:11:22.50,0:11:24.53,Default,,0,0,0,,Có chuyện gì sao, thưa quý khách?{Did something happen at the spring?}
+Dialogue: 0,0:11:26.56,0:11:28.00,Default,,0,0,0,,Trả lại bùa hộ mạng của tôi!{Give my amulet back!}
+Dialogue: 0,0:11:29.33,0:11:33.00,Default,,0,0,0,,{Just wait! I'll definitely get it back for you!}Đợi đó! Tớ nhất định sẽ lấy lại nó cho cậu!
+Dialogue: 0,0:11:33.45,0:11:36.84,Default,,0,0,0,,{Kei, wait! Me too!}Kei-chan! Ơ-Ơ... đợi tao với!
+Dialogue: 0,0:11:37.25,0:11:40.30,Default,,0,0,0,,{Good timing from those two...}Tụi Jiro có mặt đúng lúc thật nhỉ...
+Dialogue: 0,0:11:40.41,0:11:41.37,Default,,0,0,0,,- Hở?\N- Hửm?
+Dialogue: 0,0:11:43.00,0:11:44.81,Default,,0,0,0,,{They were watching!!}Họ cũng nhìn trộm!
+Dialogue: 0,0:12:07.00,0:12:09.00,Default,,0,0,0,,{It's too early for a break!}Vẫn quá sớm để mày lơ là đấy!
+Dialogue: 0,0:12:11.48,0:12:13.20,Default,,0,0,0,,{Step it up, kid!}Nhanh lên nào!
+Dialogue: 0,0:12:13.21,0:12:14.11,Default,,0,0,0,,Khốn kiếp!{Damn!}
+Dialogue: 0,0:12:14.22,0:12:18.00,Default,,0,0,0,,Kei-chan, {these guys are pretty tough!}mấy thằng này \Nkhông phải dạng xoàng đâu!
+Dialogue: 0,0:12:19.09,0:12:21.95,Default,,0,0,0,,{Yeah, but I won't lose!}Nhưng... tụi bây đừng hòng\N có chuyện tao thua!
+Dialogue: 0,0:12:29.33,0:12:30.16,Default,,0,0,0,,Ớ?
+Dialogue: 0,0:12:30.28,0:12:31.60,Default,,0,0,0,,Không lẽ nào.{No way.}
+Dialogue: 0,0:12:55.25,0:12:55.96,Default,,0,0,0,,Ớ?!
+Dialogue: 0,0:13:02.00,0:13:03.33,Default,,0,0,0,,Keiichi-kun, cậu không sao chứ?{are you alright?}
+Dialogue: 0,0:13:03.34,0:13:05.37,Default,,0,0,0,,Ờ... có vẻ như tớ vẫn ổn.{Yeah, I think so.}
+Dialogue: 0,0:13:05.74,0:13:08.16,Default,,0,0,0,,Hừ! Kỹ năng khá đấy.{Hmph, you've got some skills.}
+Dialogue: 0,0:13:10.64,0:13:12.05,Default,,0,0,0,,{What are you up to?}Các người muốn gì hả?
+Dialogue: 0,0:13:12.30,0:13:16.00,Default,,0,0,0,,{Nothing much. Just wanted to see you.}Chẳng có gì cả. Chỉ là muốn gặp cô thôi.
+Dialogue: 0,0:13:16.00,0:13:18.54,Default,,0,0,0,,{Well, are you happy now? Give it back.}Vậy thì vừa lòng rồi chứ? \NThế thì trả nó lại đây!
+Dialogue: 0,0:13:19.00,0:13:20.40,Default,,0,0,0,,Đây, nó đây.{Here ya go.}
+Dialogue: 0,0:13:22.13,0:13:24.72,Default,,0,0,0,,{Looks like a marriage amulet.}Có vẻ như nó là bùa tình duyên thì phải.
+Dialogue: 0,0:13:25.39,0:13:25.96,Default,,0,0,0,,Hửm?
+Dialogue: 0,0:13:29.92,0:13:33.06,Default,,0,0,0,,{I'll hold onto this until we meet again.}Hãy cầu nguyện thật nhiều\N để chúng ta có thể gặp lại nhau đấy.
+Dialogue: 0,0:13:59.00,0:14:01.79,Default,,0,0,0,,"Nabeshima"
+Dialogue: 0,0:14:18.36,0:14:19.28,Default,,0,0,0,,Sho!
+Dialogue: 0,0:14:20.19,0:14:21.12,Default,,0,0,0,,Lại đây ta bảo chút.{Come here for a bit.}
 Dialogue: 0,0:14:21.80,0:14:24.70,Default,,0,0,0,,If this is about helping you make more money, I'll pass.
 Dialogue: 0,0:14:24.80,0:14:28.80,Default,,0,0,0,,Big words from a guy who likes to play around with said money.
 Dialogue: 0,0:14:29.80,0:14:32.70,Default,,0,0,0,,That's the only thing that connects us as father and son, right?
@@ -449,10 +464,10 @@ Dialogue: 0,0:38:27.10,0:38:29.60,Default,,0,0,0,,I'll settle this right here!
 Dialogue: 0,0:38:47.50,0:38:48.60,Default,,0,0,0,,There she is!
 Dialogue: 0,0:38:48.70,0:38:49.80,Default,,0,0,0,,What's she doing?
 Dialogue: 0,0:38:53.70,0:38:55.60,Default,,0,0,0,,She fell down...
-Dialogue: 0,0:38:55.70,0:38:57.20,Default,,0,0,0,,Where are you going?
-Dialogue: 0,0:38:57.30,0:38:59.60,Default,,0,0,0,,Isn't it obvious? To stop the race!
-Dialogue: 0,0:38:59.70,0:39:02.60,Default,,0,0,0,,She can't win! It's impossible!
-Dialogue: 0,0:39:03.70,0:39:06.60,Default,,0,0,0,,If you love her, then believe in her!
+Dialogue: 0,0:38:55.61,0:38:56.66,Default,,0,0,0,,{Where are you going?}Đi đâu đấy?
+Dialogue: 0,0:38:56.76,0:38:59.77,Default,,0,0,0,,Còn phải hỏi à? Tất nhiên là\N dừng cuộc đua này lại rồi!{Isn't it obvious? To stop the race!}
+Dialogue: 0,0:38:59.93,0:39:02.22,Default,,0,0,0,,Cậu ấy không thể thắng được đâu! \NKhông đời nào có chuyện đó!{She can't win! It's impossible!}
+Dialogue: 0,0:39:03.32,0:39:05.77,Default,,0,0,0,,Nếu cậu yêu cô ấy, \Nthì hãy tin tưởng vào cổ đi!{If you love her, then believe in her!}
 Dialogue: 0,0:39:21.70,0:39:25.40,Default,,0,0,0,,Boss! We found out who designed the bike!
 Dialogue: 0,0:39:25.50,0:39:28.00,Default,,0,0,0,,It was Nagase's friend's company...
 Dialogue: 0,0:39:28.10,0:39:29.60,Default,,0,0,0,,Boomerang?
