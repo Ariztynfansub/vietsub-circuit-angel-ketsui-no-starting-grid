@@ -16,10 +16,10 @@ Audio File: ../[U-Q] Circuit Angel OVA [2DF3B2FA].mkv
 Video File: ../[U-Q] Circuit Angel OVA [2DF3B2FA].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.375000
-Scroll Position: 424
-Active Line: 433
-Video Position: 50832
+Video Zoom Percent: 0.750000
+Scroll Position: 515
+Active Line: 520
+Video Position: 64460
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -466,89 +466,101 @@ Dialogue: 0,0:35:01.53,0:35:04.44,Default,,0,0,0,,{The bike alone won't win you 
 Dialogue: 0,0:35:04.72,0:35:06.04,Default,,0,0,0,,{It's all about your skills.}Mà là tuỳ thuộc vào\N kỹ năng của tay đua đấy.
 Dialogue: 0,0:35:07.88,0:35:09.25,Default,,0,0,0,,{Like I wouldn't know!}Tôi thừa biết chuyện đó!
 Dialogue: 0,0:35:09.37,0:35:10.06,Default,,0,0,0,,Ớ?
-Dialogue: 0,0:35:14.86,0:35:20.30,Default,,0,0,0,,If this test drive goes well,\Nwe need to start producing those bikes again.
-Dialogue: 0,0:35:20.35,0:35:23.92,Default,,0,0,0,,Yes. If it's your son,\Neverything should go well.
-Dialogue: 0,0:35:23.30,0:35:25.30,Default,,0,0,0,,That goes without saying.
-Dialogue: 0,0:35:25.30,0:35:31.30,Default,,0,0,0,,I've tolerated his stupid behavior\Nand always covered for him for this day's sake.
+Dialogue: 0,0:35:14.86,0:35:17.30,Default,,0,0,0,,{If this test drive goes well,\Nwe need to start producing those bikes again.}Nếu việc chạy thử có kết quả tốt,
+Dialogue: 0,0:35:17.31,0:35:20.30,Default,,0,0,0,,{If this test drive goes well,\Nwe need to start producing those bikes again.}thì ta nên tái sản xuất lại \Nmấy chiếc mô tô đó.
+Dialogue: 0,0:35:20.35,0:35:22.53,Default,,0,0,0,,{Yes. If it's your son,\Neverything should go well.}Vâng. Nếu đích thân cậu chủ lái thì nhất định...
+Dialogue: 0,0:35:22.54,0:35:23.95,Default,,0,0,0,,Dĩ nhiên là sẽ được rồi.{That goes without saying.}
+Dialogue: 0,0:35:24.01,0:35:26.99,Default,,0,0,0,,{I've tolerated his stupid behavior\Nand always covered for him for this day's sake.}Vì ngày này mà ta đã phải\N chịu đựng mấy trò ngu ngốc của nó
+Dialogue: 0,0:35:27.02,0:35:29.61,Default,,0,0,0,,{I've tolerated his stupid behavior\Nand always covered for him for this day's sake.}cũng như bao che cho nó. 
+Dialogue: 0,0:35:29.66,0:35:30.74,Default,,0,0,0,,Ờm...
 Dialogue: 0,0:35:44.52,0:35:45.82,Default,,0,0,0,,Cố lên!{Go for it!}
 Dialogue: 0,0:35:45.82,0:35:47.54,Default,,0,0,0,,Cố hết sức vào đấy!{Do your best!}
-Dialogue: 0,0:35:52.60,0:35:56.30,Default,,0,0,0,,What's that?\NI've never seen a bike like that before.
-Dialogue: 0,0:36:02.60,0:36:06.70,Default,,0,0,0,,Did you know?\NThis is the bike you rode 7 years ago.
-Dialogue: 0,0:36:08.00,0:36:11.10,Default,,0,0,0,,I'm not as bad as you are.
-Dialogue: 0,0:36:11.20,0:36:15.30,Default,,0,0,0,,But this time the faulty parts have been fixed, Mr. Nagase.
-Dialogue: 0,0:36:16.50,0:36:18.30,Default,,0,0,0,,It was defective?
-Dialogue: 0,0:37:09.50,0:37:11.30,Default,,0,0,0,,How many laps are there?
-Dialogue: 0,0:37:11.40,0:37:12.00,Default,,0,0,0,,Kei!
-Dialogue: 0,0:37:12.10,0:37:13.50,Default,,0,0,0,,You came, Keiichi!
-Dialogue: 0,0:37:13.39,0:37:16.30,Default,,0,0,0,,4 laps. Are you worried?
+Dialogue: 0,0:35:52.29,0:35:56.30,Default,,0,0,0,,{What's that?\NI've never seen a bike like that before.}Cái gì thế? Ta chưa từng thấy\N cỗ máy nào như thế cả.
+Dialogue: 0,0:36:02.42,0:36:06.70,Default,,0,0,0,,{Did you know?\NThis is the bike you rode 7 years ago.}Nhận ra nó chứ? Đây là chiếc mô tô\Nmà ông ta đã chạy hồi 7 năm trước đấy.
+Dialogue: 0,0:36:06.70,0:36:07.82,Default,,0,0,0,,Ơ, hơ...
+Dialogue: 0,0:36:07.82,0:36:09.76,Default,,0,0,0,,{I'm not as bad as you are.}Kỹ năng của tôi không có tệ hại như ông đâu.
+Dialogue: 0,0:36:10.45,0:36:14.60,Default,,0,0,0,,{But this time the faulty parts have been fixed, Mr. Nagase.}Nhưng lần này thì những bộ phận lỗi \Nđều được sửa lại cả rồi, Nagase-san.
+Dialogue: 0,0:36:16.68,0:36:18.30,Default,,0,0,0,,Nó vốn bị lỗi sao?{It was defective?}
+Dialogue: 0,0:37:09.28,0:37:10.81,Default,,0,0,0,,{How many laps are there?}Có bao nhiêu vòng đua thế?
+Dialogue: 0,0:37:11.06,0:37:11.70,Default,,0,0,0,,Kei-chan!
+Dialogue: 0,0:37:11.72,0:37:13.23,Default,,0,0,0,,{You came}Tới rồi à, Keiichi-kun!
+Dialogue: 0,0:37:13.41,0:37:16.30,Default,,0,0,0,,Có 4 vòng. Cậu thấy lo à?{4 laps. Are you worried?}
 Dialogue: 0,0:37:16.51,0:37:18.30,Default,,0,0,0,,Còn phải hỏi nữa sao?{Obviously.}
 Dialogue: 0,0:37:19.52,0:37:22.41,Default,,0,0,0,,{Who wouldn't be.}Xì, tôi chỉ lo rằng cô ấy sẽ bị thương thôi.
-Dialogue: 0,0:37:41.60,0:37:46.30,Default,,0,0,0,,So fast! He's not just some spoiled brat!
-Dialogue: 0,0:37:51.90,0:37:54.60,Default,,0,0,0,,Keiichi! He came after all!
-Dialogue: 0,0:37:55.30,0:37:58.60,Default,,0,0,0,,Nagase built quite a bike.
-Dialogue: 0,0:37:58.70,0:38:01.20,Default,,0,0,0,,His past experience as a rider sure shows.
-Dialogue: 0,0:38:01.30,0:38:05.60,Default,,0,0,0,,What are you looking at?\NI'm talking about the design, not the engine!
-Dialogue: 0,0:38:05.70,0:38:07.60,Default,,0,0,0,,That would become a top seller for sure.
-Dialogue: 0,0:38:07.70,0:38:12.60,Default,,0,0,0,,In that case, we'll start gathering information about it immediately.
-Dialogue: 0,0:38:27.10,0:38:29.60,Default,,0,0,0,,I'll settle this right here!
-Dialogue: 0,0:38:47.50,0:38:48.60,Default,,0,0,0,,There she is!
-Dialogue: 0,0:38:48.70,0:38:49.80,Default,,0,0,0,,What's she doing?
-Dialogue: 0,0:38:53.70,0:38:55.60,Default,,0,0,0,,She fell down...
+Dialogue: 0,0:37:41.60,0:37:45.17,Default,,0,0,0,,Nhanh quá! Hắn không phải \Nchỉ là một đứa con hư hỏng!{So fast! He's not just some spoiled brat!}
+Dialogue: 0,0:37:51.90,0:37:54.86,Default,,0,0,0,,Keiichi-kun! {He came after all!}Rốt cuộc cậu ta cũng tới!
+Dialogue: 0,0:37:55.30,0:37:58.60,Default,,0,0,0,,Ai mà ngờ rằng Nagase có thể làm ra\N một chiếc mô tô như thế nhỉ.{Nagase built quite a bike.}
+Dialogue: 0,0:37:58.70,0:38:01.20,Default,,0,0,0,,Có vẻ kinh nghiệm hồi còn là\Nmột tay đua vẫn còn chưa hề thui chột.{His past experience as a rider sure shows.}
+Dialogue: 0,0:38:01.54,0:38:02.91,Default,,0,0,0,,{What are you looking at?\NI'm talking about the design, not the engine!}Cậu đang nhìn cái quái gì đấy hả?
+Dialogue: 0,0:38:02.92,0:38:05.21,Default,,0,0,0,,{What are you looking at?\NI'm talking about the design, not the engine!}Ta không nói đến động cơ bên trong, mà là thiết kế!
+Dialogue: 0,0:38:05.24,0:38:07.36,Default,,0,0,0,,{That would become a top seller for sure.}Mẫu đó chắc chắn\N sẽ là một sản phẩm tốt đấy.
+Dialogue: 0,0:38:07.55,0:38:12.43,Default,,0,0,0,,{In that case, we'll start gathering information about it immediately.}Vâng, nếu thế chúng tôi sẽ tiến hành thu thập\N thông tin và báo lại cho ngài ngay ạ.
+Dialogue: 0,0:38:12.43,0:38:13.32,Default,,0,0,0,,Ừm.
+Dialogue: 0,0:38:27.17,0:38:29.15,Default,,0,0,0,,{I'll settle this right here!}Mình sẽ giải quyết ngay tại đây!
+Dialogue: 0,0:38:30.01,0:38:31.00,Default,,0,0,0,,Hơ- Ớ!
+Dialogue: 0,0:38:47.15,0:38:48.20,Default,,0,0,0,,Tới rồi, tới rồi!{There she is!}
+Dialogue: 0,0:38:48.25,0:38:49.92,Default,,0,0,0,,Cậu ấy làm cái quái gì thế?{What's she doing?}
+Dialogue: 0,0:38:52.93,0:38:54.77,Default,,0,0,0,,Cậu ấy bị té sao?{She fell down...}
 Dialogue: 0,0:38:55.61,0:38:56.66,Default,,0,0,0,,{Where are you going?}Đi đâu đấy?
 Dialogue: 0,0:38:56.76,0:38:59.77,Default,,0,0,0,,Còn phải hỏi à? Tất nhiên là\N dừng cuộc đua này lại rồi!{Isn't it obvious? To stop the race!}
 Dialogue: 0,0:38:59.93,0:39:02.22,Default,,0,0,0,,Cậu ấy không thể thắng được đâu! \NKhông đời nào có chuyện đó!{She can't win! It's impossible!}
 Dialogue: 0,0:39:03.32,0:39:05.77,Default,,0,0,0,,Nếu cậu yêu cô ấy, \Nthì hãy tin tưởng vào cổ đi!{If you love her, then believe in her!}
-Dialogue: 0,0:39:21.70,0:39:25.40,Default,,0,0,0,,Boss! We found out who designed the bike!
-Dialogue: 0,0:39:25.50,0:39:28.00,Default,,0,0,0,,It was Nagase's friend's company...
+Dialogue: 0,0:39:05.87,0:39:06.61,Default,,0,0,0,,Ơ...
+Dialogue: 0,0:39:21.25,0:39:25.08,Default,,0,0,0,,{Boss! We found out who designed the bike!}Chủ tịch! Chúng tôi đã biết được\Nnguồn gốc của thiết kế đó rồi!
+Dialogue: 0,0:39:25.15,0:39:26.86,Default,,0,0,0,,{It was Nagase's friend's company...}Nó là từ công ty của bạn Nagase...
 Dialogue: 0,0:39:27.65,0:39:28.69,Default,,0,0,0,,Boomerang?
 Dialogue: 0,0:40:06.86,0:40:08.16,Default,,0,0,0,,Bắt kịp rồi!{I've caught up!}
 Dialogue: 0,0:40:13.25,0:40:15.60,Default,,0,0,0,,Cái quái? Không thể nào!{What? Impossible!}
-Dialogue: 0,0:40:15.64,0:40:17.34,Default,,0,0,0,,She's doing great again!
-Dialogue: 0,0:40:18.70,0:40:22.60,Default,,0,0,0,,Go for it, Mariko! It's the final lap!
-Dialogue: 0,0:40:42.70,0:40:45.60,Default,,0,0,0,,There's no time left!
-Dialogue: 0,0:40:49.50,0:40:53.60,Default,,0,0,0,,Mom... Dad...\NWatch over me!
-Dialogue: 0,0:41:05.50,0:41:07.60,Default,,0,0,0,,What? She's getting too close!
-Dialogue: 0,0:41:07.70,0:41:09.60,Default,,0,0,0,,Are you insane?!
-Dialogue: 0,0:41:23.70,0:41:27.60,Default,,0,0,0,,She did it!! She won!!
-Dialogue: 0,0:41:31.70,0:41:34.60,Default,,0,0,0,,She's definitely something...
-Dialogue: 0,0:41:34.70,0:41:37.60,Default,,0,0,0,,Way to go!! Amazing!!
-Dialogue: 0,0:41:48.00,0:41:53.40,Lyrics bottom,,0,0,0,,We only met for a moment
-Dialogue: 0,0:41:53.60,0:41:58.60,Lyrics bottom,,0,0,0,,It was too late by then
-Comment: 0,0:41:48.00,0:41:53.40,Lyrics top,,0,0,0,karaoke,Deau no ga sukoshi dake
-Comment: 0,0:41:53.60,0:41:58.60,Lyrics top,,0,0,0,karaoke,Ososugita dake nanoni
-Comment: 0,0:41:59.60,0:42:09.90,Lyrics top,,0,0,0,karaoke,Mou anata ni chikazuku no mo dekinainowa naze
-Dialogue: 0,0:41:59.60,0:42:09.90,Lyrics bottom,,0,0,0,,Why cannot I be close to you anymore?
-Comment: 0,0:42:12.50,0:42:22.90,Lyrics top,,0,0,0,karaoke,Hashagisugita kisetsu ga kaze no you ni sugiteku
-Comment: 0,0:42:24.40,0:42:35.90,Lyrics top,,0,0,0,karaoke,Ii yatsu nante dokonidemo iru nante itta mama
-Comment: 0,0:42:39.10,0:42:48.00,Lyrics top,,0,0,0,karaoke,Anata ga koe wo kaketa sei yo
-Comment: 0,0:42:49.30,0:42:59.90,Lyrics top,,0,0,0,karaoke,Mune ga itamu no mo, otona ni naru no mo
-Comment: 0,0:43:03.20,0:43:12.50,Lyrics top,,0,0,0,karaoke,Sono te wo nigirishimeta mama de
-Comment: 0,0:43:13.50,0:43:20.70,Lyrics top,,0,0,0,karaoke,Saigo ni hitokoto iwasete
-Comment: 0,0:43:21.00,0:43:24.70,Lyrics top,,0,0,0,karaoke,I still love you
-Comment: 0,0:43:52.70,0:43:57.70,Lyrics top,,0,0,0,karaoke,Deau no ga sukoshi dake
-Comment: 0,0:43:58.40,0:44:02.70,Lyrics top,,0,0,0,karaoke,Ososugita dake nanoni
-Comment: 0,0:44:04.50,0:44:14.70,Lyrics top,,0,0,0,karaoke,Mou kono mama ano hito wo oinukenai no ne
-Comment: 0,0:44:16.70,0:44:27.70,Lyrics top,,0,0,0,karaoke,Tokei no hari wa itsumo wakare wo kizamu dake
-Comment: 0,0:44:28.40,0:44:43.06,Lyrics top,,0,0,0,karaoke,Shiawase nante dokonidemo aru nante uso nano
-Dialogue: 0,0:44:43.58,0:44:47.06,Lyrics top,,0,0,0,,Anata no...
-Dialogue: 0,0:42:12.50,0:42:22.90,Lyrics bottom,,0,0,0,,The passing season disappeared like the wind
-Dialogue: 0,0:42:24.40,0:42:35.90,Lyrics bottom,,0,0,0,,Even though I said good people can be found anywhere...
-Dialogue: 0,0:42:39.10,0:42:48.00,Lyrics bottom,,0,0,0,,Because you called out to me
-Dialogue: 0,0:42:49.30,0:42:59.90,Lyrics bottom,,0,0,0,,I felt a pain in my heart, and grew more mature
-Dialogue: 0,0:43:03.20,0:43:12.50,Lyrics bottom,,0,0,0,,Holding your hand tightly
-Dialogue: 0,0:43:13.50,0:43:20.70,Lyrics bottom,,0,0,0,,Let me say one last thing to you
-Dialogue: 0,0:43:52.70,0:43:57.70,Lyrics bottom,,0,0,0,,We only met for a moment
-Dialogue: 0,0:43:58.40,0:44:02.70,Lyrics bottom,,0,0,0,,It was too late by then
-Dialogue: 0,0:44:04.50,0:44:14.70,Lyrics bottom,,0,0,0,,I cannot catch up with you anymore
-Dialogue: 0,0:44:16.70,0:44:27.70,Lyrics bottom,,0,0,0,,The hand of the clock always seems to tick towards the time of parting
-Dialogue: 0,0:44:28.40,0:44:43.06,Lyrics bottom,,0,0,0,,It's a lie that happiness can be found anywhere
+Dialogue: 0,0:40:15.64,0:40:17.34,Default,,0,0,0,,{She's doing great again!}Khoảng cách lại được thu hẹp rồi!
+Dialogue: 0,0:40:18.97,0:40:22.60,Default,,0,0,0,,{Go for it, Mariko! It's the final lap!}Tiến lên, Mariko! \NCòn một vòng đua cuối nữa thôi!
+Dialogue: 0,0:40:42.26,0:40:44.49,Default,,0,0,0,,{There's no time left!}Chẳng còn nhiều thời gian nữa!
+Dialogue: 0,0:40:48.68,0:40:53.07,Default,,0,0,0,,{Mom... Dad...\NWatch over me!}Mẹ... Ba...\N Hãy gia hộ cho con!
+Dialogue: 0,0:41:05.26,0:41:07.31,Default,,0,0,0,,{What? She's getting too close!}Cái quái! Gần quá!
+Dialogue: 0,0:41:07.32,0:41:08.48,Default,,0,0,0,,Cô ấy rồi chắc{Are you insane}?!
+Dialogue: 0,0:41:23.46,0:41:25.12,Default,,0,0,0,,{She did it!! She won!!}- Hoan hô! \N- Thắng rồi!
+Dialogue: 0,0:41:25.12,0:41:27.26,Default,,0,0,0,,- Thắng rồi!\N- Thắng rồi!{She did it!! She won!!}
+Dialogue: 0,0:41:27.26,0:41:28.77,Default,,0,0,0,,Ta thắng rồi!
+Dialogue: 0,0:41:31.97,0:41:33.71,Default,,0,0,0,,{She's definitely something...}Đúng là một cô gái đáng gờm...
+Dialogue: 0,0:41:33.89,0:41:36.20,Default,,0,0,0,,{Way to go!! Amazing!!}- Thành công rồi!\N- Tớ làm được rồi!
+Dialogue: 0,0:41:36.20,0:41:37.74,Default,,0,0,0,,Tuyệt quá!
+Dialogue: 0,0:41:38.04,0:41:39.66,Default,,0,0,0,,Vui quá đi mất!
+Dialogue: 0,0:41:48.00,0:41:53.40,Lyrics top,,0,0,0,karaoke,{\k27}{\k42}De{\k38}a{\k35}u {\k45}no {\k56}ga {\k34}su{\k11}ko{\k50}shi {\k21}da{\k73}ke{\k108}
+Dialogue: 0,0:41:53.81,0:41:58.60,Lyrics top,,0,0,0,karaoke,{\k64}{\k27}O{\k37}so{\k32}su{\k56}gi{\k36}ta {\k36}da{\k37}ke {\k57}na{\k22}no{\k75}ni
+Dialogue: 0,0:41:59.60,0:42:10.48,Lyrics top,,0,0,0,karaoke,{\k25}{\k81}Mou {\k22}a{\k24}na{\k41}ta {\k94}ni{\k42} {\k26}chi{\k30}ka{\k36}zu{\k41}ku {\k21}no {\k142}mo{\k10} {\k22}de{\k41}ki{\k40}na{\k33}i{\k32}no{\k108}wa{\k33} {\k21}na{\k65}ze?
+Dialogue: 0,0:42:12.50,0:42:22.90,Lyrics top,,0,0,0,karaoke,{\k9}{\k34}Ha{\k45}sha{\k29}gi{\k49}su{\k23}gi{\k46}ta{\k21} {\k14}ki{\k41}se{\k26}tsu {\k47}ga{\k237} {\k35}ka{\k39}ze {\k19}no {\k82}you {\k50}ni {\k39}su{\k31}gi{\k25}te{\k70}ku{\k29}
+Comment: 0,0:42:24.40,0:42:35.90,Default,,0,0,0,karaoke,Ii yatsu nante dokonidemo iru nante itta mama
+Comment: 0,0:42:39.10,0:42:48.00,Default,,0,0,0,karaoke,Anata ga koe wo kaketa sei yo
+Comment: 0,0:42:49.30,0:42:59.90,Default,,0,0,0,karaoke,Mune ga itamu no mo, otona ni naru no mo
+Comment: 0,0:43:03.20,0:43:12.50,Default,,0,0,0,karaoke,Sono te wo nigirishimeta mama de
+Comment: 0,0:43:13.50,0:43:20.70,Default,,0,0,0,karaoke,Saigo ni hitokoto iwasete
+Comment: 0,0:43:21.00,0:43:24.70,Default,,0,0,0,karaoke,I still love you
+Comment: 0,0:43:52.70,0:43:57.70,Default,,0,0,0,karaoke,Deau no ga sukoshi dake
+Comment: 0,0:43:58.40,0:44:02.70,Default,,0,0,0,karaoke,Ososugita dake nanoni
+Comment: 0,0:44:04.50,0:44:14.70,Default,,0,0,0,karaoke,Mou kono mama ano hito wo oinukenai no ne
+Comment: 0,0:44:16.70,0:44:27.70,Default,,0,0,0,karaoke,Tokei no hari wa itsumo wakare wo kizamu dake
+Comment: 0,0:44:28.40,0:44:43.06,Default,,0,0,0,karaoke,Shiawase nante dokonidemo aru nante uso nano
+Comment: 0,0:44:43.58,0:44:47.06,Default,,0,0,0,,Anata no...
+Dialogue: 0,0:41:48.00,0:41:53.40,Lyrics bottom,,0,0,0,,{We only met for a moment}Dù ta chỉ cỏ thể gặp được nhau trong ít lâu.
+Dialogue: 0,0:41:53.81,0:41:58.60,Lyrics bottom,,0,0,0,,{It was too late by then}Nhưng đến lúc đó thì đã quá trễ rồi.
+Dialogue: 0,0:41:59.60,0:42:10.48,Lyrics bottom,,0,0,0,,{Why cannot I be close to you anymore?}Tại sao em lại không thể gần gũi với anh nữa chứ?
+Dialogue: 0,0:42:12.50,0:42:22.90,Lyrics bottom,,0,0,0,,{The passing season disappeared like the wind}Niềm vui đôi ta cũng thay đổi \Ntheo mùa, vội vàng ra đi tựa cơn gió.
+Comment: 0,0:42:24.40,0:42:35.90,Lyrics bottom,,0,0,0,,Even though I said good people can be found anywhere...
+Comment: 0,0:42:39.10,0:42:48.00,Lyrics bottom,,0,0,0,,Because you called out to me
+Comment: 0,0:42:49.30,0:42:59.90,Lyrics bottom,,0,0,0,,I felt a pain in my heart, and grew more mature
+Comment: 0,0:43:03.20,0:43:12.50,Lyrics bottom,,0,0,0,,Holding your hand tightly
+Comment: 0,0:43:13.50,0:43:20.70,Lyrics bottom,,0,0,0,,Let me say one last thing to you
+Comment: 0,0:43:52.70,0:43:57.70,Lyrics bottom,,0,0,0,,We only met for a moment
+Comment: 0,0:43:58.40,0:44:02.70,Lyrics bottom,,0,0,0,,It was too late by then
+Comment: 0,0:44:04.50,0:44:14.70,Lyrics bottom,,0,0,0,,I cannot catch up with you anymore
+Comment: 0,0:44:16.70,0:44:27.70,Lyrics bottom,,0,0,0,,The hand of the clock always seems to tick towards the time of parting
+Comment: 0,0:44:28.40,0:44:43.06,Lyrics bottom,,0,0,0,,It's a lie that happiness can be found anywhere
 Dialogue: 0,0:44:43.58,0:44:47.06,Lyrics bottom,,0,0,0,,Đôi mắt cũng như đôi môi của anh...
-Dialogue: 0,0:42:19.80,0:42:23.80,credits,,0,0,0,,{\i1}Chief Producer: Hiromasa Shibazaki{\i}
-Dialogue: 0,0:42:24.65,0:42:28.70,credits,,0,0,0,,{\i1}Screenplay: Mami Watanabe{\i}
-Dialogue: 0,0:42:29.80,0:42:33.70,credits,,0,0,0,,{\i1}Character Design: Chuuichi Iguchi{\i}\N{\i1}Special Bike Design: Boomerang{\i}
-Dialogue: 0,0:42:34.80,0:42:38.80,credits,,0,0,0,,{\i1}Director: Yoshikazu Tochihira{\i}
-Dialogue: 0,0:42:44.80,0:42:48.90,credits,,0,0,0,,{\i1}Mariko - Maya Okamoto{\i}\N{\i1}Sho - Kenyu Horiuchi{\i}\N{\i1}Keiichi - Keiichi Nanba{\i}
-Dialogue: 0,0:42:49.70,0:42:54.00,credits,,0,0,0,,{\i1}Matsutaro - Kouhei Miyauchi{\i}\N{\i1}Mitsugu - Ichiro Nagai{\i}\N{\i1}Raita - Tesshou Genda{\i}\N{\i1}Hiroko - Hiroko Moriguchi{\i}
+Comment: 0,0:42:19.80,0:42:23.80,credits,,0,0,0,,{\i1}Chief Producer: Hiromasa Shibazaki{\i}
+Comment: 0,0:42:24.65,0:42:28.70,credits,,0,0,0,,{\i1}Screenplay: Mami Watanabe{\i}
+Comment: 0,0:42:29.80,0:42:33.70,credits,,0,0,0,,{\i1}Character Design: Chuuichi Iguchi{\i}\N{\i1}Special Bike Design: Boomerang{\i}
+Comment: 0,0:42:34.80,0:42:38.80,credits,,0,0,0,,{\i1}Director: Yoshikazu Tochihira{\i}
+Comment: 0,0:42:44.80,0:42:48.90,credits,,0,0,0,,{\i1}Mariko - Maya Okamoto{\i}\N{\i1}Sho - Kenyu Horiuchi{\i}\N{\i1}Keiichi - Keiichi Nanba{\i}
+Comment: 0,0:42:49.70,0:42:54.00,credits,,0,0,0,,{\i1}Matsutaro - Kouhei Miyauchi{\i}\N{\i1}Mitsugu - Ichiro Nagai{\i}\N{\i1}Raita - Tesshou Genda{\i}\N{\i1}Hiroko - Hiroko Moriguchi{\i}
 Dialogue: 0,0:00:24.20,0:00:24.96,Lyrics top,,0,0,0,fx,{\an5\fsp20\pos(144,47)\fscx30\fscy30\t(0,300,\fsp0\fscx120\fscy120)\t(300,600,\fscx100\fscy100)\fad(200,0)}Te
 Dialogue: 0,0:00:25.36,0:00:30.30,Lyrics top,,0,0,0,fx,{\an5\pos(138,47)\fad(0,200)}T
 Dialogue: 0,0:00:25.36,0:00:30.30,Lyrics top,,0,0,0,fx,{\an5\pos(152,47)\fad(0,200)}e
