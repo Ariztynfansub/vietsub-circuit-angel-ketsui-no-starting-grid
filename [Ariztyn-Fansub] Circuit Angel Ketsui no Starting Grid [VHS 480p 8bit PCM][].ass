@@ -17,9 +17,9 @@ Video File: ../[U-Q] Circuit Angel OVA [2DF3B2FA].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 3
-Active Line: 5
-Video Position: 415
+Scroll Position: 215
+Active Line: 221
+Video Position: 26604
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -255,6 +255,7 @@ Dialogue: 0,0:17:41.10,0:17:43.50,Default,,0,0,0,,Nabeshima Mitsugu...
 Dialogue: 0,0:18:20.77,0:18:24.17,Default,,0,0,0,,Mariko... Ra là thế...{I see...}
 Dialogue: 0,0:18:24.50,0:18:26.50,Default,,0,0,0,,Cô quen biết cả Nagase cơ đấy.{You knew Nagase.}
 Dialogue: 0,0:18:27.30,0:18:28.50,Default,,0,0,0,,{It's no wonder then.}Hèn gì...
+Dialogue: 0,0:18:30.82,0:18:31.59,Default,,0,0,0,,Ủa?
 Dialogue: 0,0:18:31.60,0:18:32.70,Default,,0,0,0,,Cậu chủ!{Master!}
 Dialogue: 0,0:18:34.10,0:18:35.60,Default,,0,0,0,,{How unusual!}Đúng là hiếm khi gặp được cậu thật đấy!
 Dialogue: 0,0:18:35.65,0:18:37.01,Default,,0,0,0,,Ờ. Nó là gì vậy?{Yeah. What's this?}
